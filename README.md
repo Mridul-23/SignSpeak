@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ```bash
 
-git clone [https://github.com/Mridul-23/SignSpeak.git](https://github.com/Mridul-23/SignSpeak.git)
+git clone https://github.com/Mridul-23/SignSpeak.git
 cd SignSpeak
 ```
 
